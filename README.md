@@ -2,7 +2,8 @@
 
 ## Pre-requisites
 
-- Setup [docker](docker.com) trên host server
+- Setup [Docker](https://www.docker.com) trên host server
+- Mở port 10051 trên zabbix server
 
 ## Setup monitor host
 
