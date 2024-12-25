@@ -17,4 +17,5 @@
 - Setup environment variables: `cp .env.example .env`:
   - _ZBX_HOSTNAME_: tên host ở trên
   - _ZBX_SERVER_HOST_: ip của zabbix server
-  - _ZBX_PASSIVE_SERVER_: domain của server, dùng khi sử dụng passive check
+  - _ZBX_PASSIVESERVERS_: server nhận passive check, phân cách bằng dấu phẩy
+  - _ZBX_ACTIVESERVERS_: server nhận active check, phân cách bằng dấu phẩy
